@@ -1,6 +1,4 @@
-
 #include <QtGui/QApplication>
-
 #include "QWidget"
 #include "QVBoxLayout"
 #include "QSlider"

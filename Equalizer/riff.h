@@ -1,10 +1,7 @@
 // Simple PCM RIFF WAVE support
-
 #ifndef _RIFF_
 #define _RIFF_
-
 #include <stdio.h>
-
 #include "cdefs.h"
 
 // Обработка ошибок

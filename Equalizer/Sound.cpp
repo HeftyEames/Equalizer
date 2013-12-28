@@ -1,6 +1,7 @@
 #include <string>
 #include "Sound.h"
 
+
 Sound::Sound(QString filepath) {
     in = new riffwave_reader(filepath.toStdString().data());
     start = 0;

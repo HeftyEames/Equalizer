@@ -1,6 +1,5 @@
 #include "Walkman.h"
 
-
 Walkman::Walkman() {
     QWidget *box = new QWidget();
     QVBoxLayout *layout = new QVBoxLayout();

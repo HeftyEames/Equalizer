@@ -1,9 +1,7 @@
 #include "riff.h"
-
 #include <stdlib.h>
 #include <string.h>
 
-// error handler
 
 namespace {
   void std_riff_error( const char* msg )
